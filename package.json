@@ -1,0 +1,17 @@
+{
+  "name": "check-for-updates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^37.2.0",
+    "install": "^0.12.2",
+    "npm": "^6.9.0",
+    "webdriverio": "^5.7.1"
+  }
+}
